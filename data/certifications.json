@@ -1,0 +1,226 @@
+{
+  "logos": {
+    "react": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+    "javascript": "https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg",
+    "styles": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYaLyw17MqBfXLKL17ePTJHJvSo-Nii_3Cw&usqp=CAU",
+    "html": "https://i.pinimg.com/736x/2c/32/1d/2c321d3d1512aa3bd347a24999b2497e--cool-wallpaper-mobile-applications.jpg",
+    "typescript": "https://sbcode.net/img/design_patterns-typescript.jpg",
+    "tools": "https://i.pinimg.com/originals/ef/2b/c5/ef2bc5fb80c9435d9b04989fa2c0ecf1.gif",
+    "node": "https://midu.dev/images/tags/node.png",
+    "in_progress": "https://c.tenor.com/ZrFooc6A9ysAAAAM/goodgoodgeneral-mental-health.gif",
+    "python": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png",
+    "laravel": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+  },
+  "react": [
+    {
+      "id": 1,
+      "title": "Front-end Development with React",
+      "date": "June 2022",
+      "institute": "Academlo",
+      "linkToit": "https://certificates.academlo.com/en/verify/54201227946220"
+    },
+    {
+      "id": 2,
+      "title": "Building Modern Projects",
+      "date": "January 2022",
+      "institute": "LinkedIn Learning",
+      "linkToit": null
+    },
+    {
+      "id": 3,
+      "title": "Hooks",
+      "date": "January 2022",
+      "institute": "LinkedIn Learning",
+      "linkToit": "https://www.linkedin.com/learning/certificates/9579177beb7ed2f22b99476e01bd4ec022e32474b3b97e9474e62cee24a70409"
+    },
+    {
+      "id": 4,
+      "title": "Design Patters",
+      "date": "January 2022",
+      "institute": "LinkedIn Learning",
+      "linkToit": "https://www.linkedin.com/learning/certificates/ad162f37ff2b79863413cdbb40960b079d829899284ea5b21a61e43bc5a5e89c"
+    },
+    {
+      "id": 5,
+      "title": "Testing and Debugging",
+      "date": "January 2022",
+      "institute": "LinkedIn Learning",
+      "linkToit": null
+    },
+    {
+      "id": 6,
+      "title": "React & Redux with TypeScript",
+      "date": "January 2022",
+      "institute": "LinkedIn Learning",
+      "linkToit": "https://www.linkedin.com/learning/certificates/8f16a017ea315b287ce4ee698b5b070465246d60e0dfd1f2ecaccb3f9e9b2755"
+    },
+    {
+      "id": 7,
+      "title": "React Advanced",
+      "date": "2022-09-16",
+      "institute": "Platzi",
+      "linkToit": "https://www.linkedin.com/feed/update/urn:li:activity:6976502408143114240/"
+    }
+  ],
+  "javascript": [
+    {
+      "id": 1,
+      "title": "JavaScript & JQuery",
+      "date": "November 2017",
+      "institute": "Platzi",
+      "linkToit": "https://platzi.com/p/JayAdamsEl23/curso/1013-javascript-jquery-2015/diploma/detalle/"
+    },
+    {
+      "id": 2,
+      "title": "Coding Challenge",
+      "date": "December 2021",
+      "institute": "LinkedIn Learning",
+      "linkToit": "https://www.linkedin.com/learning/certificates/be02f5583d18fa609725aebf3901654e1ed80e1dc72e17009f20e9cc6c0bdce4"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript (Basic) certificate",
+      "date": "April 2022",
+      "institute": "Hackerrank",
+      "linkToit": "https://www.hackerrank.com/certificates/e7fe733a020f"
+    },
+    {
+      "id": 4,
+      "title": "JavaScript (Intermediate) certificate",
+      "date": "August 2022",
+      "institute": "Hackerrank",
+      "linkToit": "https://www.hackerrank.com/certificates/77f869dc83c7"
+    },
+    {
+      "id": 5,
+      "title": "From Zero to Ninja",
+      "date": "2022-09-22",
+      "institute": "Udemy",
+      "linkToit": "https://www.linkedin.com/feed/update/urn:li:activity:6976502408143114240/"
+    }
+  ],
+  "styles": [
+    {
+      "id": 1,
+      "title": "Animation with CSS",
+      "date": "January 2021",
+      "institute": "LinkedIn Learning",
+      "linkToit": null
+    },
+    {
+      "id": 2,
+      "title": "Tailwind CSS Essencial Training",
+      "date": "January 2021",
+      "institute": "LinkedIn Learning",
+      "linkToit": "https://www.linkedin.com/learning/certificates/f7634345b657acca9d8b7be065b0b0ed41c3f8d9cd8ea807dee9763b68d77ddd"
+    },
+    {
+      "id": 3,
+      "title": "Bootstrap",
+      "date": "October 2021",
+      "institute": "YouTube Tutorials",
+      "linkToit": null
+    },
+    {
+      "id": 4,
+      "title": "SASS",
+      "date": "August 2021",
+      "institute": "YouTube Tutorials",
+      "linkToit": null
+    }
+  ],
+  "html": [
+    {
+      "id": 1,
+      "title": "Basic Programming",
+      "date": "November 2017",
+      "institute": "Platzi",
+      "linkToit": "https://platzi.com/p/JayAdamsEl23/curso/1050-programacion-basica/diploma/detalle/"
+    },
+    {
+      "id": 2,
+      "title": "Basic HTML",
+      "date": "September 2017",
+      "institute": "YouTube Tutorials",
+      "linkToit": null
+    },
+    {
+      "id": 3,
+      "title": "Foundations in HTML",
+      "date": "May 2022",
+      "institute": "Academlo",
+      "linkToit": "https://certificates.academlo.com/en/verify/57171852727934"
+    },
+    {
+      "id": 4,
+      "title": "Creating Responsive HTML Email",
+      "date": "February 2022",
+      "institute": "LinkedIn Learning",
+      "linkToit": null
+    }
+  ],
+  "typescript": [
+    {
+      "id": 1,
+      "title": "OOP with Typescript",
+      "date": "January 2022",
+      "institute": "LinkedIn Learning",
+      "linkToit": null
+    },
+    {
+      "id": 2,
+      "title": "React, Redux & Typescript",
+      "date": "December 2021",
+      "institute": "LinkedIn Learning",
+      "linkToit": "https://www.linkedin.com/learning/certificates/8f16a017ea315b287ce4ee698b5b070465246d60e0dfd1f2ecaccb3f9e9b2755"
+    },
+    {
+      "id": 3,
+      "title": "The Complete Professional Guide",
+      "date": "November 2021",
+      "institute": "UDEMY",
+      "linkToit": "https://www.udemy.com/certificate/UC-485e8e7e-3133-473e-b54a-66155bbcb8b0/"
+    }
+  ],
+  "tools": [
+    {
+      "id": 1,
+      "title": "Git & GitHub",
+      "date": "February 2018",
+      "institute": "Platzi Academy",
+      "linkToit": null
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "date": "November 2017",
+      "institute": "Platzi Academy",
+      "linkToit": null
+    },
+    {
+      "id": 3,
+      "title": "Responsive Design",
+      "date": "October 2017",
+      "institute": "Platzi Academy",
+      "linkToit": null
+    }
+  ],
+  "node": [
+    {
+      "id": 1,
+      "title": "Backend Development with Node",
+      "date": "November 2022",
+      "institute": "Academlo",
+      "linkToit": "https://certificates.academlo.com/en/verify/04454169662155"
+    }
+  ],
+  "python": [
+    {
+      "id": 1,
+      "title": "Backend Dev w/ Python & Django",
+      "date": "2022-06-08",
+      "institute": "Academlo",
+      "linkToit": "https://drive.google.com/drive/u/0/folders/1jWOx4zXmRBkDBgEG00o896mRJNy9n9xr"
+    }
+  ]
+}

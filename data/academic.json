@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "degree": "Bachelor Degree in Education in Theology.",
+    "institute": "Adventist University",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xPGKPB5ORVqhZlFYMkCMJVJNFKGx6u4MFP0OQACBNwYYgz-OMwRKsf4JyYN1m5n15gE&usqp=CAU",
+    "online": false,
+    "status": true,
+    "yearOfCompletion": 2011,
+    "yearsInTotal": 5
+  },
+  {
+    "id": 2,
+    "degree": "Diploma in Didactics of English.",
+    "institute": "Luis Amigo University",
+    "logo": "https://universidadesvirtuales.co/logos/thumb/logo-universidad-catolica-luis-amigo-funlam.png",
+    "online": false,
+    "status": true,
+    "yearOfCompletion": 2018,
+    "yearsInTotal": 1
+  },
+  {
+    "id": 3,
+    "degree": "Machine Learning",
+    "institute": "Stanford University",
+    "logo": "https://external-preview.redd.it/-nTZsy3lUdtK9MuMBv9CzRNhZVa0IHpIU-ONP2FI6U8.png?auto=webp&s=95e4008be703abf015855d428a58bb9305d1db83",
+    "online": true,
+    "status": false,
+    "yearOfCompletion": 2024,
+    "yearsInTotal": 1
+  },
+  {
+    "id": 4,
+    "degree": "Full-Stack Software Development & Computer Science.",
+    "institute": "Academlo",
+    "logo": "https://yt3.ggpht.com/BzW__TigaJBS4ClPB7u5-z6KRR8NSS97GItlDmihjvKHFprV2fhy-6E0Tf_t9AzV-I14FTP22w=s900-c-k-c0x00ffffff-no-rj",
+    "online": true,
+    "status": true,
+    "yearOfCompletion": 2022,
+    "yearsInTotal": 1
+  },
+  {
+    "id": 5,
+    "degree": "Front-End Development.",
+    "institute": "Udemy",
+    "logo": "https://pbs.twimg.com/profile_images/1415324297304977411/p9kTpGac_400x400.png",
+    "online": true,
+    "status": true,
+    "yearOfCompletion": 2021,
+    "yearsInTotal": 1
+  }
+]

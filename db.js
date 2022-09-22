@@ -1,13 +1,23 @@
-const items = require("./data/items");
-const tags = require("./data/tags");
+const academic = require("./data/academic");
+const languages = require("./data/languages");
 const personalInfo = require("./data/personalInfo");
-const itemTypes = require("./data/itemTypes");
+const certifications = require("./data/certifications");
+const projects = require("./data/projects");
+const companies = require("./data/companies");
+const blogs = require("./data/blogs")
+const experience = require("./data/experience")
+const playlist = require("./data/playlist")
 
 module.exports = {
-  items,
-  tags,
+  academic,
+  languages,
   personalInfo,
-  itemTypes
+  certifications,
+  projects,
+  companies,
+  blogs,
+  experience,
+  playlist
 }
 
 

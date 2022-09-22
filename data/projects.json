@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Fist Portfolio",
+        "stage": "True-Beginner",
+        "description": "This postfolio was intended to practice HTML Tags, and CSS. I was just getting familiar with the fundamentals of those three elements.",
+        "technologies": "HTML, CSS",
+        "deployed": "https://pensive-benz-c1206c.netlify.app/index.html",
+        "repolink": "https://github.com/jayad23/Portafolio.git",
+        "image": "image"
+    },
+    {
+        "id": 2,
+        "name": "Poke Decks",
+        "stage": "Advanced React",
+        "description": "Project made using REDUX, & Protected Routes",
+        "technologies": "HTML, CSS, JS, API, REACT, REDUX",
+        "deployed": "https://pokedex-nine-tawny.vercel.app/",
+        "repolink": "https://github.com/jayad23/pokedex",
+        "image": "image"
+    },
+    {
+        "id": 3,
+        "name": "Pokemon Game",
+        "stage": "True-Beginner",
+        "description": "This is a single level pokemon game that I created to get familiar with basic concepts of JavaScript. It was a real challenge at the time for it is able to refresh the game without refreshing the browser.",
+        "technologies": "HTML, CSS, JAVASCRIPT",
+        "deployed": "https://tender-tesla-759884.netlify.app/",
+        "repolink": "https://github.com/jayad23/Pokemon-Game.git",
+        "image": "image"
+    },
+    {
+        "id": 4,
+        "name": "To-DO List",
+        "stage": "Beginner",
+        "description": "This project got me in context with REACT JS. It was the first time that I created a project using this library. The project demanded getting familiar with maneuvers to filter and map responses from API",
+        "technologies": "REACT JS, CSS, JS",
+        "deployed": "https://jayad23.github.io/todoList/",
+        "repolink": "https://github.com/jayad23/todoList.git",
+        "image": "image"
+    },
+    {
+        "id": 5,
+        "name": "Git Hub User Search App",
+        "stage": "Semi-Fluent",
+        "description": "This project took me to the next level by allowing me to work with REACT ROUTER implementing concepts such as MainLayOuts, Hooks, API multiple requests, and re-using components.",
+        "technologies": "REACT ROUTER V6, CONTEXT, HOOKS, REACT JS, JS, CSS",
+        "deployed": "https://git-hub-api-project.vercel.app/",
+        "repolink": "https://github.com/jayad23/GitHubApiProject.git",
+        "image": "image"
+    },
+    {
+        "id": 6,
+        "name": "Weather App",
+        "stage": "Fluent",
+        "description": "This project was made with REACT ROUTER, implementing methods of JavaScript to interpret the response of the API requested. It also made me aware of a quick UI builder styling library",
+        "technologies": "REACT ROUTER V5, CONTEXT, REACT JS, TAILWIND, JS",
+        "deployed": "https://app-weather-chi.vercel.app/",
+        "repolink": "https://github.com/jayad23/AppWeather.git",
+        "image": "image"
+    },
+    {
+        "id": 7,
+        "name": "E-Commerce",
+        "stage": "Fluent",
+        "description": "This project is the apple of my eye. It defintely took me to a higher level of comprehension on technological tools, resources and methods to create a better user experience. Everything in this project was created from scratch",
+        "technologies": "REACT JS, REACT ROUTER V6, HOOKS, CONTEXT, REDUCER, CSS, FIREBASE, GITHUB, JS, DATABASE CONSTRUCTION",
+        "deployed": "https://project-ecommercce-46cdhwtei-jayad23.vercel.app/",
+        "repolink": "https://github.com/jayad23/projectEcommerce.git",
+        "image": "image"
+    },
+    {
+        "id": 8,
+        "name": "C.R.U.D",
+        "stage": "Fluent",
+        "description": "This project requiered having a deep comprehension of the behaviour of React Components.",
+        "technologies": "REACT JS, ROUTER, HOOKS, THUNKS, REDUX, CSS, HEROKU, JS",
+        "deployed": "https://restapi-13v82muqg-jayad23.vercel.app/",
+        "repolink": "https://github.com/jayad23/handlingRESTAPI",
+        "image": "image"
+    }
+]

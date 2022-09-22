@@ -1,0 +1,190 @@
+[
+    {
+        "id": 1,
+        "companyName": "Codetria",
+        "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGPPySn7sJO6g/company-logo_100_100/0/1578602590733?e=1666828800&v=beta&t=e6ZShEhDZtOgJXmk6R16fRuEDIf_t9FR8SlyYcjQnnk",
+        "jobTitle": "Front-End Developer (React)",
+        "companyDescription": "Codetria is a company focused on providing technological solutions by implementing cutting edge resources available in the market.",
+        "rol": [
+            {
+                "title": "Developer",
+                "description": "My responsibility is to deliver products that follow the company's standards, make sure that my coding practrices are always synched with that of the whole team, follow instructions given by leaders, and propose alternative and creative solutions to problems when the how is not clear."
+            }
+        ],
+        "skills": [
+            "Gitlab",
+            "GitHub",
+            "Microsoft Azure",
+            "Formik",
+            "Yup",
+            "Notion",
+            "Redux Toolkit",
+            "MUI",
+            "JavaScript",
+            "React.js",
+            "Git",
+            "Front-End",
+            "Development",
+            "REST APIs",
+            "Reactstrap",
+            "Vuexy"
+        ],
+        "start": "June 2022",
+        "isActive": true,
+        "typeContract": "full-time"
+    },
+    {
+        "id": 2,
+        "companyName": "DIGITAL HOUSE",
+        "companyLogo": "https://media-exp1.licdn.com/dms/image/C4E0BAQH1TYJrMLiA5w/company-logo_100_100/0/1647269265278?e=1666828800&v=beta&t=lUXcOThAJZBKI81cHOaxwnn21zysFxbVWfcg_wVUQNU",
+        "jobTitle": "React Instructor",
+        "companyDescription": "Digital House is a leading tech institute that builds bridges between companies and their tech needs and professionals to fit those needs. It is currently responsible for providing companies such as Mercado Libre, and Globant with professionals with a strong understanding of the latest technologies and development stacks for professional environments.",
+        "rol": [
+            {
+                "title": "React Instructor",
+                "description": "My job is to prepare and conduct lessons following a curriculum which is provided by Digital House. Also, I must provide students with feedback on both in-class activities, and class projects."
+            }
+        ],
+        "skills": [
+            [
+                [
+                    [
+                        "GitHub",
+                        "Class Components",
+                        "React Hooks",
+                        "Life cycle",
+                        "Context API",
+                        "React Router",
+                        "styled-components",
+                        "API Management",
+                        "Custom hooks",
+                        "JavaScript",
+                        "React.js",
+                        "Git",
+                        "Front-End Development"
+                    ]
+                ]
+            ]
+        ],
+        "start": "February 2022",
+        "isActive": true,
+        "typeContract": "full-time"
+    },
+    {
+        "id": 3,
+        "companyName": "Publicis Global Delivery - PGD",
+        "companyLogo": "https://media-exp1.licdn.com/dms/image/C560BAQFQ8Tt7svf0xg/company-logo_100_100/0/1657140365614?e=1666828800&v=beta&t=Hqaaw3sLAWMMa7PQaLvfclLFTiUyF2J0g3rmOONivLA",
+        "jobTitle": "Creative Engineer",
+        "companyDescription": "Digital House is a leading tech institute that builds bridges between companies and their tech needs and professionals to fit those needs. It is currently responsible for providing companies such as Mercado Libre, and Globant with professionals with a strong understanding of the latest technologies and development stacks for professional environments.",
+        "rol": [
+            {
+                "title": "Creative Engineer",
+                "description": "Create professional business portfolios for big brands on big events. Some that I can mention now are Heineken, and Coke Cola. These portfolios would include responsive Banners with React-styled-components, intuitive informative landing pages, and promotional responsive E-mails with HTML and conditional content."
+            },
+            {
+                "title": "Developer",
+                "description": "Create an entire e-commerce for a company called Widemesh. The e-commerce was connected to a AWS API service for data management."
+            }
+        ],
+        "skills": [
+            "styled-components",
+            "Tailwind",
+            "Adobe",
+            "DreamWeaver",
+            "FileZilla",
+            "HTML",
+            "SCSS",
+            "Cultural Awareness",
+            "Inclusive Language"
+        ],
+        "start": "February 2022",
+        "end": "April 2022",
+        "isActive": false,
+        "notActiveBcs": "I was forced to quit due to a mis-information during the hiring process. I was planning on migrating to Europe; I manifested so during the intervie, and they expressed there would be no problem with it since the job was remote. At the end, I had to travel as planned, and they said it was not possible to work form that far.",
+        "typeContract": "full-time"
+    },
+    {
+        "id": 4,
+        "companyName": "Freelance Developer",
+        "companyLogo": "https://assets.codepen.io/5928893/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1616020020&width=256",
+        "jobTitle": "Front-End Developer",
+        "companyDescription": "Finding the first job is always hard. Companies want people with experience, but then getting that very experience becomes a challenge. I wanted to gain experience to offer, and so I started selling web app e-commerce to local businesses.",
+        "rol": [
+            {
+                "title": "UI/UX Designer",
+                "description": "Despite the lack of tools and experience, I was the person in charge of establishing the bridge between the team and the clients. I would collect the clients' ideas, and then, come up with a proposal to suit the clients' needs. Once the green light was given, it'd inform the team and distribute responsibilities."
+            },
+            {
+                "title": "Developer",
+                "description": "Given we were a small team, I was also a part of the group of developers, and so, I was also given a task."
+            }
+        ],
+        "skills": [
+            "GitHub",
+            "Hooks",
+            "Redux",
+            "React",
+            "Heroku",
+            "Node.js",
+            "MySQL"
+        ],
+        "start": "February 2019",
+        "end": "November 2020",
+        "isActive": false,
+        "notActiveBcs": "I finally got a formal job.",
+        "typeContract": "part-time"
+    },
+    {
+        "id": 5,
+        "companyName": "EAFIT UNIVERSITY",
+        "companyLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHAQjvJnm9xYQ/company-logo_100_100/0/1654102062624?e=1666828800&v=beta&t=pFZXVoDk_2aFitWC50YkAkFdW_TqYxuNbCmeDLZ6274",
+        "jobTitle": "English Teacher",
+        "companyDescription": "EAFIT is one of the top universities in Colombia. Some of our polititians and people of interest are EAFIT's alumnee. It's vision has always been to protect our cultural traditions, understanding what it means to be 'Paisa' and the relevance of our intelect to the betterness of our society.",
+        "rol": [
+            {
+                "title": "English Teacher for Youth and Kid's program",
+                "description": "Create dynamyc and out-of-the-box lesson plans to engage students, while exploring the world through its people and language."
+            },
+            {
+                "title": "English Teacher for 'Sislengugas' program",
+                "description": "Create dynamyc and out-of-the-box lesson plans to engage students, while exploring the world through its people and language."
+            }
+        ],
+        "skills": [
+            "English C2: IELTS",
+            "English C2: 495/500 pts CCA Test",
+            "Planning",
+            "Structuring Tasks"
+        ],
+        "start": "February 2019",
+        "end": "November 2021",
+        "isActive": false,
+        "notActiveBcs": "It was time for me to move on.",
+        "typeContract": "part-time"
+    },
+    {
+        "id": 6,
+        "companyName": "CENTRO COLOMBO AMERICANO",
+        "companyLogo": "https://es.fundaorth.org/wp-content/uploads/2017/08/COLOMBO-AMERICANO.png",
+        "jobTitle": "English Teacher",
+        "companyDescription": "CCAM is one of the top language centers in Colombia. It's vision has always been to protect our cultural traditions, by creating a balanced integration with the American culture.",
+        "rol": [
+            {
+                "title": "English Teacher",
+                "description": "Create dynamyc and out-of-the-box lesson plans to engage students, while exploring the world through its people and language."
+            }
+        ],
+        "skills": [
+            [
+                "English C2: ECPE Test",
+                "Planning",
+                "Structuring Tasks"
+            ]
+        ],
+        "start": "February 2013",
+        "end": "November 2018",
+        "isActive": null,
+        "notActiveBcs": "Working at this place was a dream. However, growth is unstoppable.",
+        "typeContract": "full-time"
+    }
+]

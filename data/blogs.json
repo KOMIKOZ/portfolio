@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "The Inadvertent Wall of Programming",
+        "linkTo": "https://www.linkedin.com/pulse/inadvertent-wall-programming-jaider-e-vanegas-p-/?trackingId="
+    },
+    {
+        "id": 2,
+        "title": "¿Qué es, y cómo usar Redux con React Js?",
+        "linkTo": "https://www.linkedin.com/pulse/how-set-up-redux-react-js-jaider-e-vanegas-p-"
+    },
+    {
+        "id": 3,
+        "title": "React, 'tras bambalinas'",
+        "linkTo": "https://www.linkedin.com/pulse/react-tras-bambalinas-jaider-e-vanegas-p-/"
+    },
+    {
+        "id": 4,
+        "title": "Manejo y validación de formularios",
+        "linkTo": "https://www.linkedin.com/pulse/manejo-y-validaci%25C3%25B3n-de-formularios-con-formik-yup-vanegas-p-/?trackingId=AHcxGBL5Szqm17U3P9C8UA%3D%3D"
+    },
+    {
+        "title": "Testeando un blog",
+        "linkTo": "https://css.glass/",
+        "id": 5
+    }
+]

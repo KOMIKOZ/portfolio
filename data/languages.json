@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "lang": "English",
+    "spoken": 100,
+    "written": 100,
+    "read": 100,
+    "Listen": 100
+  },
+  {
+    "id": 2,
+    "lang": "Spanish",
+    "spoken": 100,
+    "written": 100,
+    "read": 100,
+    "Listen": 100
+  },
+  {
+    "id": 1,
+    "lang": "Fench",
+    "spoken": 20,
+    "written": 20,
+    "read": 20,
+    "Listen": 20
+  }
+]

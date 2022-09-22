@@ -1,0 +1,32 @@
+[
+    {
+        "id": 3,
+        "name": "Codetria",
+        "isCurrent": true,
+        "date_start": "",
+        "date_end": "",
+        "link": "",
+        "responsibilities": "",
+        "technologies": ""
+    },
+    {
+        "id": 2,
+        "name": "Digital House",
+        "isCurrent": true,
+        "date_start": "",
+        "date_end": "",
+        "link": "",
+        "responsibilities": "",
+        "technologies": ""
+    },
+    {
+        "id": 1,
+        "name": "PGD",
+        "isCurrent": false,
+        "date_start": "",
+        "date_end": "",
+        "link": "",
+        "responsibilities": "",
+        "technologies": ""
+    }
+]
