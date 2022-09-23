@@ -183,7 +183,7 @@
         ],
         "start": "February 2013",
         "end": "November 2018",
-        "isActive": null,
+        "isActive": false,
         "notActiveBcs": "Working at this place was a dream. However, growth is unstoppable.",
         "typeContract": "full-time"
     }
