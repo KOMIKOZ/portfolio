@@ -7,6 +7,7 @@ const companies = require("./data/companies");
 const blogs = require("./data/blogs")
 const experience = require("./data/experience")
 const playlist = require("./data/playlist")
+const contributions = require("./data/contributions.json")
 
 module.exports = {
   academic,
@@ -17,7 +18,8 @@ module.exports = {
   companies,
   blogs,
   experience,
-  playlist
+  playlist,
+  contributions
 }
 
 

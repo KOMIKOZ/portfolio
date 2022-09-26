@@ -1,0 +1,97 @@
+{
+    "ranges": [
+        {
+            "from": 0,
+            "to": 10,
+            "name": "0-10",
+            "color": "#e0f2f1"
+        },
+        {
+            "from": 11,
+            "to": 20,
+            "name": "10-20",
+            "color": "#b2dfdb"
+        },
+        {
+            "from": 21,
+            "to": 30,
+            "name": "20-30",
+            "color": "#4db6ac"
+        },
+        {
+            "from": 31,
+            "to": 40,
+            "name": "30-40",
+            "color": "#009688"
+        },
+        {
+            "from": 41,
+            "to": 50,
+            "name": "40-50",
+            "color": "#00796b"
+        },
+        {
+            "from": 51,
+            "to": 60,
+            "name": "50-60",
+            "color": "#004d40"
+        }
+    ],
+    "seriesData": [
+        {
+            "name": "JAN",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "FEB",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "MAR",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "APR",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "MAY",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "JUN",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "JUL",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "AUG",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "SEP",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "OCT",
+            "min": 0,
+            "max": 60
+        },
+        {
+            "name": "NOV",
+            "min": 0,
+            "max": 60
+        }
+    ]
+}
