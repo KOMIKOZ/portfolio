@@ -69,5 +69,12 @@
         "title": "Call me anything you want",
         "imageCover": "https://preview.redd.it/b7j9lmrk1ea11.jpg?width=640&crop=smart&auto=webp&s=160b5b44399fc2a140ceabf3622b618d7b0de40f",
         "id": 10
+    },
+    {
+        "label": "Gustavo Cerati - Magia",
+        "value": "https://www.youtube.com/embed/-SR9iRGkmVY",
+        "title": "Magia",
+        "imageCover": "https://i.scdn.co/image/ab67616d0000b273b4a891160c5dd3baa5c0ccf5",
+        "id": 11
     }
 ]
