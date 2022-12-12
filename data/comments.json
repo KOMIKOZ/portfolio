@@ -1,0 +1,202 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "Марія",
+      "avatar": "https://avatars.preply.com/i/logos/4822235.jpg",
+      "comment": "I love lessons with Jay! So many materials and studying is never boring! Highly recommend!!",
+      "date": "June 3, 2022",
+      "stars": 5,
+      "location": "Ukraine"
+    },
+    {
+      "id": 2,
+      "name": "Colette",
+      "avatar": "https://avatars.preply.com/i/logos/i/logos/5548195.95a51441a6.jpeg",
+      "comment": "Best teacher ever! The lesson are always very funny!",
+      "date": "May 13, 2022",
+      "stars": 5,
+      "location": "Italy"
+    },
+    {
+      "id": 3,
+      "name": "Carolina",
+      "avatar": "https://avatars.preply.com/i/logos/5681917.jpg",
+      "comment": "Simply the best!!!",
+      "date": "May 6, 2022",
+      "stars": 5,
+      "location": "Spain"
+    },
+    {
+      "id": 4,
+      "name": "Victor",
+      "avatar": null,
+      "comment": "Jay is a very good teacher. He uses interesting topics to practice and different materials and aplications each day. Good conversation. Highly reccommended.",
+      "date": "May 5, 2022",
+      "stars": 5,
+      "location": "Spain"
+    },
+    {
+      "id": 5,
+      "name": "Camila",
+      "avatar": null,
+      "comment": "Jay, is an excellent tutor, he is patient, uses different tools and exercises that make your class fun.",
+      "date": "May 4, 2022",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 6,
+      "name": "María",
+      "avatar": null,
+      "comment": "Amazing.I felt very comfortable and I plan to continue with his classes",
+      "date": "April 24, 2022",
+      "stars": 5,
+      "location": "Spain"
+    },
+    {
+      "id": 7,
+      "name": "Fernando",
+      "avatar": null,
+      "comment": "Very happy to study with Jay, we have only had 4 classes and we have progressed a lot. I have recommended him to all my friends",
+      "date": "April 12, 2022",
+      "stars": 5,
+      "location": "Qatar"
+    },
+    {
+      "id": 8,
+      "name": "Han",
+      "avatar": null,
+      "comment": "He is professional tutor. I enjoyed pleasure time with him. He is always zealous for student, and focusing to improve student's conversation. Highly recommended. Thanks for your great lesson.",
+      "date": "March 31, 2022",
+      "stars": 5,
+      "location": "China"
+    },
+    {
+      "id": 9,
+      "name": "지수",
+      "avatar": "https://avatars.preply.com/i/logos/3623801.jpg",
+      "comment": "I love him",
+      "date": "May 25, 2022",
+      "stars": 5,
+      "location": "South Korea"
+    },
+    {
+      "id": 10,
+      "name": "Yuiko N.",
+      "avatar": "https://avatars.preply.com/i/logos/2126947.jpg",
+      "comment": "It was really fun and helpful.",
+      "date": "Sept 21, 2022",
+      "stars": 5,
+      "location": "Japan"
+    },
+    {
+      "id": 11,
+      "name": "Jacob",
+      "avatar": "https://c4.wallpaperflare.com/wallpaper/957/568/42/costume-air-spider-man-spider-man-teen-hd-wallpaper-preview.jpg",
+      "comment": "Le queria agradecer por todo, aprendí mucho con ud 👊",
+      "date": "July 14, 2022",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 12,
+      "name": "Sammy",
+      "avatar": "https://avatars.githubusercontent.com/u/86497860?v=4",
+      "comment": "Profe buena tarde, queria agradecerle. Escucharte me da paz jajajaj yo quiero ser front amo ver todo lo que se puede hacer, pero a veces  lo veo tan imposible. Espero algun dia decir lo mismo yo odiaba esto y ahora lo amo. Mil gracias por todo.",
+      "date": "July 14, 2022",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 13,
+      "name": "Tanna",
+      "avatar": "https://avatars.githubusercontent.com/u/82984433?v=4",
+      "comment": "Gracias Kike! Me encantan los profes con este compromiso que tenés.",
+      "date": "March 21, 2022",
+      "stars": 5,
+      "location": "Argentina"
+    },
+    {
+      "id": 14,
+      "name": "Alfonso",
+      "avatar": null,
+      "comment": "Que gusto son tus clases!! un lujo, de verdad!! y no es sólo mi opinión, es lo que me comentan todos los compañeros con los que hablo.",
+      "date": "Nov 26, 2022",
+      "stars": 5,
+      "location": "Argentina"
+    },
+    {
+      "id": 15,
+      "name": "Jorge",
+      "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGXcwOjWW0jAQ/profile-displayphoto-shrink_100_100/0/1629317468190?e=1676505600&v=beta&t=guAoI2IMFwgRkYPKwNqQftOhsddY3_BDcEp58RWv9yM",
+      "comment": "Jaider es una persona increible. He tenido el agrado de trabajar con él en diversos poryectos, y lo considero una persona súper inteligente. Está en constante aprendizaje y es un apasionado por la programación; además de eso, tiene una gran capacidad de enseñanza y de trasmitir sus conocimientos!",
+      "date": "Dec 15, 2021",
+      "stars": 5,
+      "location": "Argentina"
+    },
+    {
+      "id": 20,
+      "name": "Carolay",
+      "avatar": null,
+      "comment": "Profe, gracias por cambiar la monotonía de los Sábados 😊. Muchos éxitos te deseo. Nunca olvidaré sus clases.",
+      "date": "Sept 06, 2016",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 16,
+      "name": "Diany",
+      "avatar": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/136351753_222592192840351_7680462368463143307_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=L6y_dRk4-ykAX_19H4v&_nc_ht=scontent-mad1-1.xx&oh=00_AfA5s-QsXYBmTM-nFcADO3VesPBT1KK54IkFqSHHW8f50w&oe=63BE276F",
+      "comment": "Profe. Gracias por ser un excelente docente, por ser humano antes que profesional.",
+      "date": "July 03, 2015",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 17,
+      "name": "Winston Salem",
+      "avatar": "https://www.winstonsalem.com.co/wp-content/uploads/2015/12/Logotipo-Winston-Salem.png",
+      "comment": "De verdad que siento perder una persona tan valiosa como tú. Espero contar contigo en otro momento y no me cierres las puertas a trabajar juntos.",
+      "date": "Aug 12, 2014",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 17,
+      "name": "Sarah",
+      "avatar": null,
+      "comment": "Le voy a subir el ego jajaja... mentiras, profe. Gracias! aprendí lo que no había aprendido en 20 años.",
+      "date": "Sept 03, 2014",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 18,
+      "name": "Vale",
+      "avatar": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/217552978_10224949896430440_8289780507159235499_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_onnc2LbBCUAX8nVhxU&_nc_ht=scontent-mad1-1.xx&oh=00_AfBHiEDyFVK92p32AHerRDq2LMBYSq5o6pMNL5Ov69pl-g&oe=639C0423",
+      "comment": "Gracias por estos dos cursos...Aprendí mucho, eres un excelente docente... y obvio una persona excelente, con su súper ego incluído!",
+      "date": "Sept 03, 2014",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 19,
+      "name": "Anonymous",
+      "avatar": null,
+      "comment": "Teacher Jay, hoy le quiero dar las gracias por todo. Usted ha llegado a la vida de todos nosotros, estudiantes MLK a hacerla mejor.",
+      "date": "June 03, 2014",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
+      "id": 19,
+      "name": "Anonymous",
+      "avatar": null,
+      "comment": "Muchas gracias a mi profesor favorito",
+      "date": "June 03, 2014",
+      "stars": 5,
+      "location": "Colombia"
+    }
+  ]
+}
