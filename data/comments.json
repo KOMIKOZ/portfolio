@@ -100,6 +100,15 @@
       "location": "Colombia"
     },
     {
+      "id": 21,
+      "name": "Indira",
+      "avatar": "https://media-exp1.licdn.com/dms/image/C4D03AQH053FQCb4Lgg/profile-displayphoto-shrink_200_200/0/1652317975769?e=1676505600&v=beta&t=LhicqMn1IfHo9aFxF_F_OpPf-PN2bzqArN4b9T03Ks0",
+      "comment": "Gracias, Jaider E. Vanegas P. por motivarnos a seguir nuestro objetivo de ser los mejores programadores y valorar siempre el aprendizaje previo que, nos ha llevado a elegir este camino",
+      "date": "July 14, 2022",
+      "stars": 5,
+      "location": "Argentina"
+    },
+    {
       "id": 12,
       "name": "Sammy",
       "avatar": "https://avatars.githubusercontent.com/u/86497860?v=4",
@@ -190,7 +199,7 @@
       "location": "Colombia"
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Anonymous",
       "avatar": null,
       "comment": "Muchas gracias a mi profesor favorito",
