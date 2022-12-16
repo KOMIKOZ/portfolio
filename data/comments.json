@@ -1,6 +1,15 @@
 {
   "comments": [
     {
+      "id": 24,
+      "name": "Larissa",
+      "avatar": "https://lh3.googleusercontent.com/a-/AD5-WCntQRl82pOA6gx6kdlDi1pCiPHp8qse4LnNDSCFbw=s40-p",
+      "comment": "Hola Kike, muchas gracias. En las vacaciones voy a estudiar React y quiero especializar en front/React me gustó mucho. Gracias por explicar tan bien la materia.",
+      "date": "Dec 16, 2022",
+      "stars": 5,
+      "location": "Brazil"
+    },
+    {
       "id": 1,
       "name": "Марія",
       "avatar": "https://avatars.preply.com/i/logos/4822235.jpg",
@@ -100,7 +109,7 @@
       "location": "Colombia"
     },
     {
-      "id": 21,
+      "id": 12,
       "name": "Indira",
       "avatar": "https://media-exp1.licdn.com/dms/image/C4D03AQH053FQCb4Lgg/profile-displayphoto-shrink_200_200/0/1652317975769?e=1676505600&v=beta&t=LhicqMn1IfHo9aFxF_F_OpPf-PN2bzqArN4b9T03Ks0",
       "comment": "Gracias, Jaider E. Vanegas P. por motivarnos a seguir nuestro objetivo de ser los mejores programadores y valorar siempre el aprendizaje previo que, nos ha llevado a elegir este camino",
@@ -109,7 +118,7 @@
       "location": "Argentina"
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Sammy",
       "avatar": "https://avatars.githubusercontent.com/u/86497860?v=4",
       "comment": "Profe buena tarde, queria agradecerle. Escucharte me da paz jajajaj yo quiero ser front amo ver todo lo que se puede hacer, pero a veces  lo veo tan imposible. Espero algun dia decir lo mismo yo odiaba esto y ahora lo amo. Mil gracias por todo.",
@@ -118,7 +127,7 @@
       "location": "Colombia"
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Tanna",
       "avatar": "https://avatars.githubusercontent.com/u/82984433?v=4",
       "comment": "Gracias Kike! Me encantan los profes con este compromiso que tenés.",
@@ -127,7 +136,7 @@
       "location": "Argentina"
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Alfonso",
       "avatar": null,
       "comment": "Que gusto son tus clases!! un lujo, de verdad!! y no es sólo mi opinión, es lo que me comentan todos los compañeros con los que hablo.",
@@ -136,7 +145,7 @@
       "location": "Argentina"
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Jorge",
       "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGXcwOjWW0jAQ/profile-displayphoto-shrink_100_100/0/1629317468190?e=1676505600&v=beta&t=guAoI2IMFwgRkYPKwNqQftOhsddY3_BDcEp58RWv9yM",
       "comment": "Jaider es una persona increible. He tenido el agrado de trabajar con él en diversos poryectos, y lo considero una persona súper inteligente. Está en constante aprendizaje y es un apasionado por la programación; además de eso, tiene una gran capacidad de enseñanza y de trasmitir sus conocimientos!",
@@ -145,7 +154,7 @@
       "location": "Argentina"
     },
     {
-      "id": 20,
+      "id": 17,
       "name": "Carolay",
       "avatar": null,
       "comment": "Profe, gracias por cambiar la monotonía de los Sábados 😊. Muchos éxitos te deseo. Nunca olvidaré sus clases.",
@@ -154,7 +163,7 @@
       "location": "Colombia"
     },
     {
-      "id": 16,
+      "id": 18,
       "name": "Diany",
       "avatar": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/136351753_222592192840351_7680462368463143307_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=L6y_dRk4-ykAX_19H4v&_nc_ht=scontent-mad1-1.xx&oh=00_AfA5s-QsXYBmTM-nFcADO3VesPBT1KK54IkFqSHHW8f50w&oe=63BE276F",
       "comment": "Profe. Gracias por ser un excelente docente, por ser humano antes que profesional.",
@@ -163,7 +172,7 @@
       "location": "Colombia"
     },
     {
-      "id": 17,
+      "id": 19,
       "name": "Winston Salem",
       "avatar": "https://www.winstonsalem.com.co/wp-content/uploads/2015/12/Logotipo-Winston-Salem.png",
       "comment": "De verdad que siento perder una persona tan valiosa como tú. Espero contar contigo en otro momento y no me cierres las puertas a trabajar juntos.",
@@ -172,7 +181,7 @@
       "location": "Colombia"
     },
     {
-      "id": 17,
+      "id": 20,
       "name": "Sarah",
       "avatar": null,
       "comment": "Le voy a subir el ego jajaja... mentiras, profe. Gracias! aprendí lo que no había aprendido en 20 años.",
@@ -181,7 +190,7 @@
       "location": "Colombia"
     },
     {
-      "id": 18,
+      "id": 21,
       "name": "Vale",
       "avatar": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/217552978_10224949896430440_8289780507159235499_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_onnc2LbBCUAX8nVhxU&_nc_ht=scontent-mad1-1.xx&oh=00_AfBHiEDyFVK92p32AHerRDq2LMBYSq5o6pMNL5Ov69pl-g&oe=639C0423",
       "comment": "Gracias por estos dos cursos...Aprendí mucho, eres un excelente docente... y obvio una persona excelente, con su súper ego incluído!",
@@ -190,7 +199,7 @@
       "location": "Colombia"
     },
     {
-      "id": 19,
+      "id": 22,
       "name": "Anonymous",
       "avatar": null,
       "comment": "Teacher Jay, hoy le quiero dar las gracias por todo. Usted ha llegado a la vida de todos nosotros, estudiantes MLK a hacerla mejor.",
@@ -199,7 +208,7 @@
       "location": "Colombia"
     },
     {
-      "id": 20,
+      "id": 23,
       "name": "Anonymous",
       "avatar": null,
       "comment": "Muchas gracias a mi profesor favorito",
