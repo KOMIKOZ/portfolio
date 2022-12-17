@@ -1,6 +1,15 @@
 {
   "comments": [
     {
+      "id": 25,
+      "name": "Test",
+      "avatar": "../assets/larissa.jpeg",
+      "comment": "Hola Kike, muchas gracias. En las vacaciones voy a estudiar React y quiero especializar en front/React me gustó mucho. Gracias por explicar tan bien la materia.",
+      "date": "Dec 16, 2022",
+      "stars": 5,
+      "location": "Brazil"
+    },
+    {
       "id": 24,
       "name": "Larissa",
       "avatar": "https://lh3.googleusercontent.com/a-/AD5-WCntQRl82pOA6gx6kdlDi1pCiPHp8qse4LnNDSCFbw=s40-p",
