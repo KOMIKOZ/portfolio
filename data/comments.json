@@ -10,6 +10,15 @@
       "location": "Brazil"
     },
     {
+      "id": 25,
+      "name": "Jorge",
+      "avatar": "https://media.licdn.com/dms/image/C5603AQE1uUBdnzHpdw/profile-displayphoto-shrink_100_100/0/1657813625234?e=1676505600&v=beta&t=I8JYBmLQZTRUaFF3O-hZqew8G8J27oAhm6VeQdoqPNw",
+      "comment": "Hola profe! Gracias por todo el aprendizaje compartido durante estos meses en CTD!",
+      "date": "Dec 14, 2022",
+      "stars": 5,
+      "location": "Colombia"
+    },
+    {
       "id": 1,
       "name": "Марія",
       "avatar": "https://avatars.preply.com/i/logos/4822235.jpg",
@@ -192,7 +201,7 @@
     {
       "id": 21,
       "name": "Vale",
-      "avatar": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/217552978_10224949896430440_8289780507159235499_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_onnc2LbBCUAX8nVhxU&_nc_ht=scontent-mad1-1.xx&oh=00_AfBHiEDyFVK92p32AHerRDq2LMBYSq5o6pMNL5Ov69pl-g&oe=639C0423",
+      "avatar": "https://pbs.twimg.com/profile_images/1199890809530793984/S8dmVJlF_400x400.jpg",
       "comment": "Gracias por estos dos cursos...Aprendí mucho, eres un excelente docente... y obvio una persona excelente, con su súper ego incluído!",
       "date": "Sept 03, 2014",
       "stars": 5,
