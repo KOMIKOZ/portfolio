@@ -9,6 +9,7 @@ const experience = require("./data/experience")
 const playlist = require("./data/playlist")
 const contributions = require("./data/contributions.json")
 const comments = require("./data/comments.json")
+const deployed = require("./data/deployed.json")
 
 module.exports = {
   academic,
@@ -21,7 +22,8 @@ module.exports = {
   experience,
   playlist,
   contributions,
-  comments
+  comments,
+  deployed
 }
 
 
