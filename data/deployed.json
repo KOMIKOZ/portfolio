@@ -1,0 +1,60 @@
+{
+  "deployed": [
+    {
+      "id": 1,
+      "projectName": "Flight Booking",
+      "projectUrl": "https://x-machine-ai.vercel.app",
+      "projectImage": "https://i.ibb.co/NN7tXh5/state-machine.png",
+      "projectDescription": "This simplistic flight booking Web app was created to practice with / implement the library X-State which is a State Machine library. This allows us to create circuit of State with a machine that interprets the current State of the component, and handles their respective events events and validations. This project uses the latest version of React, and the machine is operated by hooks and custom hooks."
+    },
+    {
+      "id": 2,
+      "projectName": "E-commerce & Service",
+      "projectUrl": "https://project-ecommercce-46cdhwtei-jayad23.vercel.app",
+      "projectImage": "https://i.ibb.co/6tR6pQ1/E-commerce.png",
+      "projectDescription": "What you see is the deployed version of development of a project that was taken to production and is now serving an Aesthetics service clinic in Medellin, Colombia. The clinic does not have a big catalog, therefore the project suficed with Context Api and useReducer for State management. The development was carried out with the latest concepts of react (Functional components and hooks). The Database was created with Node.js, Mong DB, and deployed in Heroku. The registration and authentication process is handled with Firebase. Finally, the payment process implemented was PayPal as required by the client."
+    },
+    {
+      "id": 3,
+      "projectName": "GitHub Search Engine",
+      "projectUrl": "https://git-hub-api-project.vercel.app",
+      "projectImage": "https://i.ibb.co/vQTZKZ5/Git-hub-Search-Engine.png",
+      "projectDescription": "This search engine processes and display real information of GitHub users by requesting to GH Api. The promises are resolved with JavaScript fetch method, and React's hook useEffect. It also implements hook useState to store the information, and customHook to re-usability of functions."
+    },
+    {
+      "id": 4,
+      "projectName": "Pokemon Game",
+      "projectUrl": "https://tender-tesla-759884.netlify.app",
+      "projectImage": "https://i.ibb.co/BNgHxJj/Pokemon-game.png",
+      "projectDescription": "This is single-level game developed with JavaScript. It contains a running Pikachu who's thrown at pokeballs to be captured. The only thing Pikachu can do to scape captivity is jump, action that the user triggers by clicking in the frame on the screen. Once captured, the game can be re-started needlessly of refreshing the site thanks to a state memory represented in JavaScript."
+    },
+    {
+      "id": 5,
+      "projectName": "Pokedex",
+      "projectUrl": "https://pokedex-nine-tawny.vercel.app",
+      "projectImage": "https://i.ibb.co/nnJpfM1/pokemon-trainer.png",
+      "projectDescription": "This project runs on the free Pokemon Api, requested with Axios. It displays general and specific information of Pokemons to become the best trainer. It displays the information with beautiful touches of css and other animations that makes navigation entertaining. Promise.All, .filter and .map are some of the ECMASCRIPT concepts in this project. Hooks such as context, useState, useEffect, and other customHooks."
+    },
+    {
+      "id": 6,
+      "projectName": "C.R.U.D",
+      "projectUrl": "https://restapi-13v82muqg-jayad23.vercel.app",
+      "projectImage": "https://i.ibb.co/JK4r7gz/CRUD.png",
+      "projectDescription": "This project helped me understand key concepts of data flow, HTTP verbs, error handlers, and abstract component modularity that are necessary for backoffice applications."
+    },
+    {
+      "id": 7,
+      "projectName": "TODO",
+      "projectUrl": "https://jayad23.github.io/todoList",
+      "projectImage": "https://i.ibb.co/25C9BVD/Todo.png",
+      "projectDescription": "This project is not much because the data shown is not readable, but it was useful to understand how to mutate the response of an API, populate the response with other client-side properties and store it in a state to enable especific behaviour and user interaction with the App."
+    },
+    {
+      "id": 8,
+      "projectName": "Pocket Weather Report",
+      "projectUrl": "https://app-weather-chi.vercel.app",
+      "projectImage": "https://i.ibb.co/QYn07D7/Weather-App.png",
+      "projectDescription": "This project was build with little css code, and a lot of Tailwind. The Api required CORS configuration such as API key and other environtment properties in headers to authorize requests."
+    }
+  ]
+}
