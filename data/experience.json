@@ -29,7 +29,8 @@
             "Reactstrap",
             "Vuexy"
         ],
-        "start": "June 2022",
+        "start": "03 June 2022",
+        "end": "01 Febrero 2023",
         "isActive": true,
         "typeContract": "full-time"
     },
@@ -67,6 +68,7 @@
             ]
         ],
         "start": "February 2022",
+        "end": null,
         "isActive": true,
         "typeContract": "full-time"
     },
@@ -97,8 +99,8 @@
             "Cultural Awareness",
             "Inclusive Language"
         ],
-        "start": "February 2022",
-        "end": "April 2022",
+        "start": "14 January 2022",
+        "end": "24 April 2022",
         "isActive": false,
         "notActiveBcs": "I was forced to quit due to a mis-information during the hiring process. I was planning on migrating to Europe; I manifested so during the intervie, and they expressed there would be no problem with it since the job was remote. At the end, I had to travel as planned, and they said it was not possible to work form that far.",
         "typeContract": "full-time"
@@ -128,8 +130,8 @@
             "Node.js",
             "MySQL"
         ],
-        "start": "February 2019",
-        "end": "November 2020",
+        "start": "05 February 2019",
+        "end": "20 December 2020",
         "isActive": false,
         "notActiveBcs": "I finally got a formal job.",
         "typeContract": "part-time"
@@ -156,8 +158,8 @@
             "Planning",
             "Structuring Tasks"
         ],
-        "start": "February 2019",
-        "end": "November 2021",
+        "start": "16 February 2019",
+        "end": "28 November 2021",
         "isActive": false,
         "notActiveBcs": "It was time for me to move on.",
         "typeContract": "part-time"
@@ -181,8 +183,8 @@
                 "Structuring Tasks"
             ]
         ],
-        "start": "February 2013",
-        "end": "November 2018",
+        "start": "11 February 2013",
+        "end": "21 November 2018",
         "isActive": false,
         "notActiveBcs": "Working at this place was a dream. However, growth is unstoppable.",
         "typeContract": "full-time"
