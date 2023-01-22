@@ -55,6 +55,20 @@
       "projectUrl": "https://app-weather-chi.vercel.app",
       "projectImage": "https://i.ibb.co/QYn07D7/Weather-App.png",
       "projectDescription": "This project was build with little css code, and a lot of Tailwind. The Api required CORS configuration such as API key and other environtment properties in headers to authorize requests."
+    },
+    {
+      "id": 9,
+      "projectName": "JavaScript Practice I",
+      "projectUrl": "https://quiz-batman.vercel.app/",
+      "projectImage": "https://i.ibb.co/mD0PtGR/batman-quiz.png",
+      "projectDescription": "This project was made with Vanilla JavaScript to keep basic to keep basic web development concepts, and DOM manipulations with JavaScript afresh. It was a part of the course on Udemy called Professional JavaScript Developer."
+    },
+    {
+      "id": 10,
+      "projectName": "Rattle Snake Game",
+      "projectUrl": "https://verdant-elf-e3c281.netlify.app/",
+      "projectImage": "https://i.ibb.co/w7BNHJV/snake-game.png",
+      "projectDescription": "This is a game built with little CSS Grid, and lots of complex JavaScript concepts on DOM Manipulation, animations with Js and element positioning with Js."
     }
   ]
 }
